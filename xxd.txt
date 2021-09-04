@@ -3,5 +3,9 @@ test4 1新
 
 test3 1 旧
 
+<<<<<<< .merge_file_a14676
 test4 的第二次提交
 
+=======
+test3 的第二次提交
+>>>>>>> .merge_file_a12948
