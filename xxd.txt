@@ -1,3 +1,10 @@
 仓库test dev2
+
+增加仓库 test 的内容 dev2
+
 增加仓库 test2 的内容  dev2
+<<<<<<< HEAD
 再次增加仓库test2的内容
+=======
+
+>>>>>>> 3536353e4fbab811caddb90a0d37a9b22d00dff3
